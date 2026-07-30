@@ -60,12 +60,10 @@ Based on the data analysis, the following actionable recommendations were presen
 ## 🏃‍♂️ How To Run This Project Locally
 
 ### Prerequisites
-Ensure you have Python 3.x, a SQL Database Client, and Power BI Desktop installed.
+Ensure you have Python 3.x, a PostgreSQL Database Client, and Power BI Desktop installed.
 
 ### Execution
-1. *Clone the repository:*
+1. **Clone the repository:**
    ```bash
-   git clone 
-    git clone https://github.com/amankishore-git/Customer_Behavior_Analysis.git
-    cd Customer-Behavior-Analysis
-    ```
+   git clone [https://github.com/amankishore-git/Customer_Behavior_Analysis.git](https://github.com/amankishore-git/Customer_Behavior_Analysis.git)
+   cd Customer_Behavior_Analysis
