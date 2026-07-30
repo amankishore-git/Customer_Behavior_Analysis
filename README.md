@@ -64,6 +64,5 @@ Ensure you have Python 3.x, a PostgreSQL Database Client, and Power BI Desktop i
 
 ### Execution
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/amankishore-git/Customer_Behavior_Analysis.git
-   cd Customer_Behavior_Analysis
+  git clone https://github.com/amankishore-git/Customer_Behavior_Analysis.git
+cd Customer_Behavior_Analysis
